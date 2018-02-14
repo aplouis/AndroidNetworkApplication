@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Networkworking</string>
+
+    <string name="title_activity_login">Log In</string>
+
+    <string name="edit_hint_username">USERNAME</string>
+    <string name="edit_hint_password">PASSWORD</string>
+
+    <string name="button_text_login">Log In</string>
+
+</resources>
